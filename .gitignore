@@ -34,3 +34,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+backend/tukasite/__pycache__/__init__.cpython-311.pyc
+backend/tukasite/__pycache__/settings.cpython-311.pyc
+backend/tukasite/__pycache__/urls.cpython-311.pyc
+backend/tukasite/__pycache__/wsgi.cpython-311.pyc
